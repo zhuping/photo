@@ -1,2 +1,2 @@
-##photo
-###upload images to display
+#photo
+upload images to display
